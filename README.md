@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🎨 CanvasCraft — Drawing App
 
@@ -15,7 +15,8 @@
 <br/>
 
 <!-- Replace with your screenshot link or relative image path -->
-<img src="https://raw.githubusercontent.com/ajayxuns/Drawing-App-JavaScript/main/preview.png" alt="App Preview" width="850" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25);" />
+<img width="1917" height="1078" alt="Screenshot 2026-09-08 074413" src="https://github.com/user-attachments/assets/6c802de3-b822-4286-b50b-2423eb5ac91f" />
+<div align="center">" alt="App Preview" width="850" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25);" />
 
 </div>
 
